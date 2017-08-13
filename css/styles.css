@@ -1,0 +1,27 @@
+body{
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #FF623F;
+    font-size: 12px;
+}
+
+.html-document-image{
+    height: 230px;
+    width: 200px;
+}
+
+.contents-list{
+    padding-left: 30px;
+}
+
+.contents-list-inner{
+    padding-left: 30px;
+}
+
+.text-style-highlight{
+    background-color: #B398B5;
+}
+
+.hidden-text{
+    display: none;
+}
